@@ -1,0 +1,2 @@
+# magnusfarstad.github.io
+website
